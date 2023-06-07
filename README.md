@@ -12,8 +12,8 @@ NoteSpace (A MERN Stack Project) : Your secure and private online space for pers
 - NodeJS
 
 ## Screenshots
-<div align="center">
 <h3>Home:</h3>
+<div>
   <img alt="Demo" src="./Images/AddNote.PNG" />
 <h3>Signup:</h3>
   <img alt="Demo" src="./Images/SignupPage.PNG" />  

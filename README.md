@@ -13,7 +13,13 @@ NoteSpace (A MERN Stack Project) : Your secure and private online space for pers
 
 ## Screenshots
 <div align="center">
+<h3>Home:</h3>
   <img alt="Demo" src="./Images/AddNote.PNG" />
+<h3>Signup:</h3>
+  <img alt="Demo" src="./Images/SignupPage.PNG" />  
+<h3>Login:</h3>
+  <img alt="Demo" src="./Images/LoginPage.PNG" />
+
 </div>
 
 ### `npm run both`
